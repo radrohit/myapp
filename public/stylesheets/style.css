@@ -1,0 +1,19 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+body h2{
+	text-decoration: underline;
+}
+
+body ul{
+	list-style-type: square;
+}
+
+body ul li{
+	padding-left: 15px;
+}
+a {
+  color: #00B7FF;
+}
